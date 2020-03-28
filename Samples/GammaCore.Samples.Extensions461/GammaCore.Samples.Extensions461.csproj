@@ -7,8 +7,8 @@
     <ProjectGuid>{B34B5262-3D0C-4FDD-A35B-E0F260E56A27}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>GammaCore.Samples.Extensions</RootNamespace>
-    <AssemblyName>GammaCore.Samples.Extensions</AssemblyName>
+    <RootNamespace>GammaCore.Samples.Extensions461</RootNamespace>
+    <AssemblyName>GammaCore.Samples.Extensions461</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

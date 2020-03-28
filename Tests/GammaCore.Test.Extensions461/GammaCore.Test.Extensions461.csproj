@@ -8,8 +8,8 @@
     <ProjectGuid>{DB31B49D-AA4C-4E63-B99F-2BC169CF615F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>GammaCore.Test.Extensions</RootNamespace>
-    <AssemblyName>GammaCore.Test.Extensions</AssemblyName>
+    <RootNamespace>GammaCore.Test.Extensions461</RootNamespace>
+    <AssemblyName>GammaCore.Test.Extensions461</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -63,11 +63,11 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\GammaCore.Extensions\GammaCore.Extensions.csproj">
+    <ProjectReference Include="..\..\GammaCore.Extensions461\GammaCore.Extensions461.csproj">
       <Project>{a2b73b3a-3ffe-457f-9b84-3b800fda6fcc}</Project>
-      <Name>GammaCore.Extensions</Name>
+      <Name>GammaCore.Extensions2</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\Samples\GammaCore.Samples.Extensions\GammaCore.Samples.Extensions.csproj">
+    <ProjectReference Include="..\..\Samples\GammaCore.Samples.Extensions461\GammaCore.Samples.Extensions461.csproj">
       <Project>{b34b5262-3d0c-4fdd-a35b-e0f260e56a27}</Project>
       <Name>GammaCore.Samples.Extensions</Name>
     </ProjectReference>

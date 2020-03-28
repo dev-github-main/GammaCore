@@ -7,8 +7,8 @@
     <ProjectGuid>{A2B73B3A-3FFE-457F-9B84-3B800FDA6FCC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>GammaCore.Extensions</RootNamespace>
-    <AssemblyName>GammaCore.Extensions</AssemblyName>
+    <RootNamespace>GammaCore.Extensions461</RootNamespace>
+    <AssemblyName>GammaCore.Extensions461</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.Data;
 using GammaCore.Extensions;
-using GammaCore.Samples.Extensions;
+using GammaCore.Samples.Extensions461;
 
-namespace GammaCore.Test.Extensions
+namespace GammaCore.Test.Extensions461
 {
 	public class TestsBaseClass
 	{

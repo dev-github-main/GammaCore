@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GammaCore.Samples.Extensions
+namespace GammaCore.Samples.Extensions461
 {
-	public class BaseTestingClass
+	public interface IGenericType
 	{
-		public string Key { get; set; }
 	}
 }

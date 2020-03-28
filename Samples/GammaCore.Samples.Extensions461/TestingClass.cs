@@ -1,5 +1,5 @@
 ﻿
-namespace GammaCore.Samples.Extensions
+namespace GammaCore.Samples.Extensions461
 {
 	public class TestingClass : BaseTestingClass, IGenericType
 	{

@@ -1,10 +1,10 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using GammaCore.Extensions;
-using GammaCore.Samples.Extensions;
+using GammaCore.Samples.Extensions461;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace GammaCore.Test.Extensions
+namespace GammaCore.Test.Extensions461
 {
 	[TestClass]
 	public class EnumExtensionsTests : TestsBaseClass

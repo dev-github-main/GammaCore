@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
-namespace GammaCore.Samples.Extensions
+namespace GammaCore.Samples.Extensions461
 {
 	public enum TestEnum
 	{
