@@ -18,6 +18,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{2811
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GammaCore.Samples.Extensions461", "Samples\GammaCore.Samples.Extensions461\GammaCore.Samples.Extensions461.csproj", "{B34B5262-3D0C-4FDD-A35B-E0F260E56A27}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GammaCore.Extensions", "GammaCore.Extensions\GammaCore.Extensions.csproj", "{F2AD6424-281F-430C-BE71-F88ACB4CA4EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,6 +38,10 @@ Global
 		{B34B5262-3D0C-4FDD-A35B-E0F260E56A27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B34B5262-3D0C-4FDD-A35B-E0F260E56A27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B34B5262-3D0C-4FDD-A35B-E0F260E56A27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2AD6424-281F-430C-BE71-F88ACB4CA4EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2AD6424-281F-430C-BE71-F88ACB4CA4EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2AD6424-281F-430C-BE71-F88ACB4CA4EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2AD6424-281F-430C-BE71-F88ACB4CA4EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
